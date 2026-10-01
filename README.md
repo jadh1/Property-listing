@@ -1,7 +1,7 @@
 # 🏠 Property-listing - Find Your Perfect Home
 
 
-[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Next.js 16](https://img.shields.io/badge/Next.js-16-black?logo=next.js)
 ![React 19](https://img.shields.io/badge/React-19-61DAFB?logo=react)
 ![Sanity](https://img.shields.io/badge/Sanity-CMS-F03E2F?logo=sanity)
